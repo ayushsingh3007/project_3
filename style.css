@@ -160,10 +160,13 @@ top:20%;}
               left:290px;
                 top: 110px;}
 
+
 .index3{display: flex; 
-justify-content: center;}
-
-
+justify-content: center;
+margin-top: 25px;
+height:25vh;}
+.index3nav{width:35%;
+height:15%;}
 
 
 
@@ -564,7 +567,7 @@ top:20%;}
             color: blue;}
 
 
-@media only screen and (min-width:290px) and (max-width: 520px){
+@media only screen and (min-width:290px) and (max-width: 560px){
  .flex_container{display: block;
          height: auto;
   justify-content: space-between;
@@ -673,6 +676,13 @@ padding:0px;}
 
        
 
+.index3item{width:28vw;
+height:22vh;
+margin: auto;}
+.index3nav{
+
+width: 70%;
+margin-top: 0px;}
 
 
 
