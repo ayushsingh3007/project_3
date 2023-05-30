@@ -169,7 +169,7 @@ top:30%;}
 
 
 
-@media only screen and (min-width:260px) and (max-width: 580px){
+@media only screen and (min-width:240px) and (max-width: 580px){
   .flex_container{display: block;
          height: auto;
   justify-content: space-between;
@@ -239,16 +239,16 @@ top:30%;}
             background-color: blue;
             color:white;
             position: absolute;
-             left: 1750px;
+             left: 150px;
             top: 85px;}
   .icontext{position: absolute;
-            left: 225px;
+            left: 180px;
             top:85px;
             font-size: 13px;
             color: blue;}
 
 
-@media only screen and (min-width:290px) and (max-width: 580px){
+@media only screen and (min-width:260px) and (max-width: 580px){
  .flex_container{display: block;
          height: auto;
   justify-content: space-between;
