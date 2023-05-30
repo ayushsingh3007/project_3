@@ -168,7 +168,7 @@ top:30%;}
 
 
 
-@media only screen and (min-width:240px) and (max-width: 912px){
+@media only screen and (min-width:240px) and (max-width: 580px){
   .flex_container{display: block;
          height: auto;
   justify-content: space-between;
@@ -340,16 +340,16 @@ margin:auto;}
       }
 
 
-@media only screen and (min-width:911px) and (max-width: 1200px){
+@media only screen and (min-width:701px) and (max-width: 1200px){
 .index2item{border:1px solid grey;
         border-radius: 10px;
-           width:40vw;
+           width:60vw;
            position: absolute;
            top:300px;
-           left:70px;
+           left:50px;
           
           line-height: 30px;
-          height: 30vh;
+          height: 28vh;
           box-shadow: 0px,0px,10px black;
           background-color: white;}
 
