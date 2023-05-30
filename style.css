@@ -199,7 +199,7 @@ top:30%;}
         
         .index2container{display: flex;
         flex-direction: row;
-        overflow-x: none;
+        
              justify-content: flex-start;
             flex-wrap:wrap;
             position: absolute;
@@ -210,13 +210,13 @@ top:30%;}
          
       .index2item{border:1px solid grey;
         border-radius: 10px;
-           width:50vw;
+           width:30vw;
            position: absolute;
            top:90px;
            left:10px;
           
           line-height: 30px;
-          height: 30vh;
+          height: 28vh;
           box-shadow: 0px,0px,10px black;
           background-color: white;}
         .iconindex2{width:20px;
