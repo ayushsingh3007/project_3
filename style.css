@@ -203,7 +203,7 @@ top:30%;}
              justify-content: flex-start;
             flex-wrap:wrap;
             position: absolute;
-            
+            overflow-x:hidden;
 
            }
            
@@ -213,7 +213,7 @@ top:30%;}
            width:30vw;
            position: absolute;
            top:90px;
-           left:10px;
+           left:-410px;
           
           line-height: 30px;
           height: 28vh;
