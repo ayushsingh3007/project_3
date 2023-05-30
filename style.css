@@ -137,13 +137,13 @@ top:20%;}
            }
       .index2item{border:1px solid grey;
         border-radius: 10px;
-           width:25vw;
+           width:28vw;
            position: absolute;
            top:25vh;
            right:30vw;
           
           line-height: 30px;
-          height: 35vh;
+          height: 27vh;
           box-shadow: 0px,0px,10px black;
           background-color: white;}
         .iconindex2{width:30px;
