@@ -158,7 +158,6 @@ top:20%;}
                 top: 110px;}
 
 
-
 .index3{display: flex; 
 justify-content: center;
 margin-top: 40px;
@@ -166,7 +165,8 @@ height:25vh;}
 .index3nav{width:35%;
 height:15%;
 position: absolute;
-top:16%;}
+top:30%;}
+
 
 @media only screen and (min-width:240px) and (max-width: 580px){
   .flex_container{display: block;
@@ -338,7 +338,6 @@ margin:auto;}
 
 
 
-
       }
 
 
@@ -383,5 +382,15 @@ margin:auto;}
                 top: 88px;
                 font-size: 18px;
               }
+	.index3{display: flex; 
+justify-content: center;
+margin-top: 20px;
+height:25vh;}
+.index3nav{width:50%;
+height:10%;
+position: absolute;
+top:20%;}
+
+
 
 }
