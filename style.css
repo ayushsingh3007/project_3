@@ -157,16 +157,16 @@ top:20%;}
               left:290px;
                 top: 110px;}
 
+
+
 .index3{display: flex; 
 justify-content: center;
-margin-top: 25px;
+margin-top: 40px;
 height:25vh;}
 .index3nav{width:35%;
 height:15%;
 position: absolute;
 top:30%;}
-
-
 
 @media only screen and (min-width:240px) and (max-width: 580px){
   .flex_container{display: block;
@@ -323,16 +323,18 @@ top:20%;}
              } 
 
 
-.index3item{width:28vw;
-height:22vh;
+.index3item{width:45vw;
+height:25vh;
 margin: auto;}
 .index3nav{
 
 width: 65%;
 position: absolute;
 top: 25%;
-left: 25px;
+left: 55px;
 margin:auto;}
+
+
 
 
 
